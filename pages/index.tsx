@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Head from 'next/head';
 import { CldImage, CldOgImage } from 'next-cloudinary';
 import styles from '../styles/Home.module.css';
