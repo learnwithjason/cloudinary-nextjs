@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.learnwithjason.dev">
-    <img src="https://res.cloudinary.com/jlengstorf/image/upload/w_600,q_auto,f_auto/v1609356421/lwj/learn-with-jason.png" alt="Learn With Jason" width="120" />
+    <img src="https://res.cloudinary.com/jlengstorf/image/upload/w_440,q_auto,f_auto/v1609356421/lwj/learn-with-jason.png" alt="Learn With Jason" width="220" />
   </a>
 </p>
 <h1 align="center">
